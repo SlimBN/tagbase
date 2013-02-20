@@ -8,7 +8,7 @@ module ActiveRecord
 end
 
 module Socialization
-  module wisher
+  module Wisher
     extend ActiveSupport::Concern
 
     included do

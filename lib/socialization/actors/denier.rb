@@ -8,7 +8,7 @@ module ActiveRecord
 end
 
 module Socialization
-  module denier
+  module Denier
     extend ActiveSupport::Concern
 
     included do

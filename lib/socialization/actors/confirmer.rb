@@ -8,7 +8,7 @@ module ActiveRecord
 end
 
 module Socialization
-  module confirmer
+  module Confirmer
     extend ActiveSupport::Concern
 
     included do
