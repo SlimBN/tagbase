@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version = Socialization::VERSION
   s.authors = ["Hatchvenom Slim"]
   s.email = "hatchvenomslim@gmail.com"
-  s.homepage = "https://github.com/cmer/socialization"
+  s.homepage = "https://github.com/SlimBN/tagbase.git"
   s.summary = "Easily socialize your app with Likes and Follows"
   s.description = "Socialization allows any model to Follow and/or Like any other model. This is accomplished through a double polymorphic relationship on the Follow and Like models. But you don't need to know that since all the complexity is hidden from you."
 
